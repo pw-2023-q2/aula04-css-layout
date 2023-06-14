@@ -1,0 +1,17 @@
+.container {
+    display: table;
+    width: 100%;
+    background-color: red;
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+}
+
+.sidebar {
+    width: 20%;
+}
